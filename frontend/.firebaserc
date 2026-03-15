@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "maneja-tus-gastos"
-  }
+    "default": "maneja-tus-gastos-llapaco"
+  },
+  "targets": {},
+  "etags": {}
 }
